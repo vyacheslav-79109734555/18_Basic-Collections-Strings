@@ -1,28 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b6572b4-2070-4e0f-ae64-2cc98b0980b6" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/Домашняя работа/01_restaurant_menu/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Домашняя работа/01_restaurant_menu/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Домашняя работа/02_longest_word/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Домашняя работа/02_longest_word/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Домашняя работа/03_files/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Домашняя работа/03_files/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Домашняя работа/04_capital_letters/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Домашняя работа/04_capital_letters/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Домашняя работа/05_password/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Домашняя работа/05_password/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Домашняя работа/06_compression/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Домашняя работа/06_compression/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Домашняя работа/07_ip_adress_2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Домашняя работа/07_ip_adress_2/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Домашняя работа/08_ticker/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Домашняя работа/08_ticker/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Домашняя работа/09_message/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Домашняя работа/09_message/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Домашняя работа/10_the_truth/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Домашняя работа/10_the_truth/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="3b6572b4-2070-4e0f-ae64-2cc98b0980b6" name="Changes" comment="the_truth" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +43,77 @@
       <option name="project" value="LOCAL" />
       <updated>1649312104757</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="restaurant_menu">
+      <created>1649312352572</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649312352572</updated>
+    </task>
+    <task id="LOCAL-00003" summary="longest_word">
+      <created>1649312389357</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1649312389357</updated>
+    </task>
+    <task id="LOCAL-00004" summary="files">
+      <created>1649312416892</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649312416892</updated>
+    </task>
+    <task id="LOCAL-00005" summary="capital_letters">
+      <created>1649312445822</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1649312445822</updated>
+    </task>
+    <task id="LOCAL-00006" summary="password">
+      <created>1649312471855</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1649312471855</updated>
+    </task>
+    <task id="LOCAL-00007" summary="compression">
+      <created>1649312499006</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1649312499006</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ip_adress_2">
+      <created>1649312523171</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1649312523171</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ticker">
+      <created>1649312548521</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1649312548521</updated>
+    </task>
+    <task id="LOCAL-00010" summary="message">
+      <created>1649312574650</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1649312574650</updated>
+    </task>
+    <task id="LOCAL-00011" summary="the_truth">
+      <created>1649312601881</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1649312601882</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,6 +130,16 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="new" />
-    <option name="LAST_COMMIT_MESSAGE" value="new" />
+    <MESSAGE value="restaurant_menu" />
+    <MESSAGE value="longest_word" />
+    <MESSAGE value="files" />
+    <MESSAGE value="capital_letters" />
+    <MESSAGE value="password" />
+    <MESSAGE value="compression" />
+    <MESSAGE value="ip_adress_2" />
+    <MESSAGE value="ticker" />
+    <MESSAGE value="message" />
+    <MESSAGE value="the_truth" />
+    <option name="LAST_COMMIT_MESSAGE" value="the_truth" />
   </component>
 </project>
